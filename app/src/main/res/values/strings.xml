@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tracsact_Demo</string>
+    <string name="usd">USD to CNY</string>
+    <string name="cny">CNY to USD</string>
+    <string name="query">查询</string>
+    <string name="welcome">welcome</string>
+</resources>
